@@ -77,11 +77,11 @@
     "simpleBridge8": "myfunlaby.SimpleBridge",
     "simpleBridge9": "myfunlaby.SimpleBridge",
     "station": "com.funlabyrinthe.mazes.std.Grass",
-    "zoneRailsLight00North": "myfunlaby.ZoneRailsLight",
-    "zoneRailsLight01": "myfunlaby.ZoneRailsLight",
-    "zoneRailsLight10": "myfunlaby.ZoneRailsLight",
-    "zoneRailsLight11": "myfunlaby.ZoneRailsLight",
-    "zoneRailsLight20": "myfunlaby.ZoneRailsLight",
+    "zoneRailsLight00North": "user.sjrd.railways.ZoneRailsLight",
+    "zoneRailsLight01": "user.sjrd.railways.ZoneRailsLight",
+    "zoneRailsLight10": "user.sjrd.railways.ZoneRailsLight",
+    "zoneRailsLight11": "user.sjrd.railways.ZoneRailsLight",
+    "zoneRailsLight20": "user.sjrd.railways.ZoneRailsLight",
   },
   "components": {
     "com.funlabyrinthe.core.AdditionalComponents:boat1": {
