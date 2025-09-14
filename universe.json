@@ -94,10 +94,10 @@
       ],
     },
     "com.funlabyrinthe.core.AdditionalComponents:carriage11": {
-      "tracks": [ "com.funlabyrinthe.core.AdditionalComponents:carriage12", ],
-      "previousDirection": "West",
-      "locomotive": [ "com.funlabyrinthe.core.AdditionalComponents:locomotive1", ],
       "direction": "West",
+      "locomotive": [ "com.funlabyrinthe.core.AdditionalComponents:locomotive1", ],
+      "previousDirection": "West",
+      "tracks": [ "com.funlabyrinthe.core.AdditionalComponents:carriage12", ],
       "position": [
         [
           "com.funlabyrinthe.core.AdditionalComponents:map1",
@@ -106,10 +106,10 @@
       ],
     },
     "com.funlabyrinthe.core.AdditionalComponents:carriage12": {
-      "tracks": [ "com.funlabyrinthe.core.AdditionalComponents:carriage13", ],
-      "previousDirection": "West",
-      "locomotive": [ "com.funlabyrinthe.core.AdditionalComponents:locomotive1", ],
       "direction": "West",
+      "locomotive": [ "com.funlabyrinthe.core.AdditionalComponents:locomotive1", ],
+      "previousDirection": "West",
+      "tracks": [ "com.funlabyrinthe.core.AdditionalComponents:carriage13", ],
       "position": [
         [
           "com.funlabyrinthe.core.AdditionalComponents:map1",
@@ -118,9 +118,9 @@
       ],
     },
     "com.funlabyrinthe.core.AdditionalComponents:carriage13": {
-      "previousDirection": "West",
-      "locomotive": [ "com.funlabyrinthe.core.AdditionalComponents:locomotive1", ],
       "direction": "West",
+      "locomotive": [ "com.funlabyrinthe.core.AdditionalComponents:locomotive1", ],
+      "previousDirection": "West",
       "position": [
         [
           "com.funlabyrinthe.core.AdditionalComponents:map1",
@@ -129,10 +129,10 @@
       ],
     },
     "com.funlabyrinthe.core.AdditionalComponents:carriage21": {
-      "tracks": [ "com.funlabyrinthe.core.AdditionalComponents:carriage22", ],
-      "previousDirection": "West",
-      "locomotive": [ "com.funlabyrinthe.core.AdditionalComponents:locomotive2", ],
       "direction": "West",
+      "locomotive": [ "com.funlabyrinthe.core.AdditionalComponents:locomotive2", ],
+      "previousDirection": "West",
+      "tracks": [ "com.funlabyrinthe.core.AdditionalComponents:carriage22", ],
       "position": [
         [
           "com.funlabyrinthe.core.AdditionalComponents:map1",
@@ -141,10 +141,10 @@
       ],
     },
     "com.funlabyrinthe.core.AdditionalComponents:carriage22": {
-      "tracks": [ "com.funlabyrinthe.core.AdditionalComponents:carriage23", ],
-      "previousDirection": "West",
-      "locomotive": [ "com.funlabyrinthe.core.AdditionalComponents:locomotive2", ],
       "direction": "West",
+      "locomotive": [ "com.funlabyrinthe.core.AdditionalComponents:locomotive2", ],
+      "previousDirection": "West",
+      "tracks": [ "com.funlabyrinthe.core.AdditionalComponents:carriage23", ],
       "position": [
         [
           "com.funlabyrinthe.core.AdditionalComponents:map1",
@@ -153,9 +153,9 @@
       ],
     },
     "com.funlabyrinthe.core.AdditionalComponents:carriage23": {
-      "previousDirection": "West",
-      "locomotive": [ "com.funlabyrinthe.core.AdditionalComponents:locomotive2", ],
       "direction": "West",
+      "locomotive": [ "com.funlabyrinthe.core.AdditionalComponents:locomotive2", ],
+      "previousDirection": "West",
       "position": [
         [
           "com.funlabyrinthe.core.AdditionalComponents:map1",
@@ -164,10 +164,10 @@
       ],
     },
     "com.funlabyrinthe.core.AdditionalComponents:carriage31": {
-      "tracks": [ "com.funlabyrinthe.core.AdditionalComponents:carriage32", ],
-      "previousDirection": "East",
-      "locomotive": [ "com.funlabyrinthe.core.AdditionalComponents:locomotive3", ],
       "direction": "East",
+      "locomotive": [ "com.funlabyrinthe.core.AdditionalComponents:locomotive3", ],
+      "previousDirection": "East",
+      "tracks": [ "com.funlabyrinthe.core.AdditionalComponents:carriage32", ],
       "position": [
         [
           "com.funlabyrinthe.core.AdditionalComponents:map1",
@@ -176,10 +176,10 @@
       ],
     },
     "com.funlabyrinthe.core.AdditionalComponents:carriage32": {
-      "tracks": [ "com.funlabyrinthe.core.AdditionalComponents:carriage33", ],
-      "previousDirection": "East",
-      "locomotive": [ "com.funlabyrinthe.core.AdditionalComponents:locomotive3", ],
       "direction": "East",
+      "locomotive": [ "com.funlabyrinthe.core.AdditionalComponents:locomotive3", ],
+      "previousDirection": "East",
+      "tracks": [ "com.funlabyrinthe.core.AdditionalComponents:carriage33", ],
       "position": [
         [
           "com.funlabyrinthe.core.AdditionalComponents:map1",
@@ -188,9 +188,9 @@
       ],
     },
     "com.funlabyrinthe.core.AdditionalComponents:carriage33": {
-      "previousDirection": "East",
-      "locomotive": [ "com.funlabyrinthe.core.AdditionalComponents:locomotive3", ],
       "direction": "East",
+      "locomotive": [ "com.funlabyrinthe.core.AdditionalComponents:locomotive3", ],
+      "previousDirection": "East",
       "position": [
         [
           "com.funlabyrinthe.core.AdditionalComponents:map1",
@@ -220,11 +220,11 @@
     },
     "com.funlabyrinthe.core.AdditionalComponents:locomotive1": {
       "nextMoveQueue": [],
-      "editVisualTag": "1",
-      "tracks": [ "com.funlabyrinthe.core.AdditionalComponents:carriage11", ],
-      "previousDirection": "West",
       "direction": "West",
+      "editVisualTag": "1",
       "delay": 350,
+      "previousDirection": "West",
+      "tracks": [ "com.funlabyrinthe.core.AdditionalComponents:carriage11", ],
       "position": [
         [
           "com.funlabyrinthe.core.AdditionalComponents:map1",
@@ -234,11 +234,11 @@
     },
     "com.funlabyrinthe.core.AdditionalComponents:locomotive2": {
       "nextMoveQueue": [],
-      "editVisualTag": "2",
-      "tracks": [ "com.funlabyrinthe.core.AdditionalComponents:carriage21", ],
-      "previousDirection": "West",
       "direction": "West",
+      "editVisualTag": "2",
       "delay": 350,
+      "previousDirection": "West",
+      "tracks": [ "com.funlabyrinthe.core.AdditionalComponents:carriage21", ],
       "position": [
         [
           "com.funlabyrinthe.core.AdditionalComponents:map1",
@@ -248,11 +248,11 @@
     },
     "com.funlabyrinthe.core.AdditionalComponents:locomotive3": {
       "nextMoveQueue": [],
-      "editVisualTag": "3",
-      "tracks": [ "com.funlabyrinthe.core.AdditionalComponents:carriage31", ],
-      "previousDirection": "East",
       "direction": "East",
+      "editVisualTag": "3",
       "delay": 350,
+      "previousDirection": "East",
+      "tracks": [ "com.funlabyrinthe.core.AdditionalComponents:carriage31", ],
       "position": [
         [
           "com.funlabyrinthe.core.AdditionalComponents:map1",
@@ -373,13 +373,13 @@
       ],
     },
     "com.funlabyrinthe.core.AdditionalComponents:railsEastToSouth": {
-      "editVisualTag": "🡓",
       "direction": [ "South", ],
       "painter": [
         {
           "ImageDescription": "Rails/BottomToRight",
         },
       ],
+      "editVisualTag": "🡓",
     },
     "com.funlabyrinthe.core.AdditionalComponents:railsHorizontal": {
       "painter": [
@@ -389,14 +389,14 @@
       ],
     },
     "com.funlabyrinthe.core.AdditionalComponents:railsHorizontalStop": {
-      "additionalDelay": 3000,
-      "isStop": true,
-      "editVisualTag": "T",
       "painter": [
         {
           "ImageDescription": "Rails/Horizontal",
         },
       ],
+      "additionalDelay": 3000,
+      "isStop": true,
+      "editVisualTag": "T",
     },
     "com.funlabyrinthe.core.AdditionalComponents:railsNorthEastToWest": {
       "direction": [ "West", ],
@@ -407,13 +407,13 @@
       ],
     },
     "com.funlabyrinthe.core.AdditionalComponents:railsNorthToEast": {
-      "editVisualTag": "🡒",
       "direction": [ "East", ],
       "painter": [
         {
           "ImageDescription": "Rails/TopToRight",
         },
       ],
+      "editVisualTag": "🡒",
     },
     "com.funlabyrinthe.core.AdditionalComponents:railsNorthToWest": {
       "direction": [ "West", ],
@@ -448,13 +448,13 @@
       ],
     },
     "com.funlabyrinthe.core.AdditionalComponents:railsSouthToWest": {
-      "editVisualTag": "🡐",
       "direction": [ "West", ],
       "painter": [
         {
           "ImageDescription": "Rails/BottomToLeft",
         },
       ],
+      "editVisualTag": "🡐",
     },
     "com.funlabyrinthe.core.AdditionalComponents:railsSouthWestToEast": {
       "direction": [ "East", ],
@@ -465,95 +465,94 @@
       ],
     },
     "com.funlabyrinthe.core.AdditionalComponents:railsSwitch1": {
-      "onDirection": [ "North", ],
       "offDirection": [ "East", ],
-      "editVisualTag": "1",
-      "targetRails": [ "com.funlabyrinthe.core.AdditionalComponents:railsSwitchable1", ],
       "isOn": true,
+      "targetRails": [ "com.funlabyrinthe.core.AdditionalComponents:railsSwitchable1", ],
+      "editVisualTag": "1",
+      "onDirection": [ "North", ],
     },
     "com.funlabyrinthe.core.AdditionalComponents:railsSwitch2": {
-      "onDirection": [ "North", ],
       "offDirection": [ "West", ],
-      "editVisualTag": "2",
       "targetRails": [ "com.funlabyrinthe.core.AdditionalComponents:railsSwitchable2", ],
+      "editVisualTag": "2",
+      "onDirection": [ "North", ],
     },
     "com.funlabyrinthe.core.AdditionalComponents:railsSwitch3": {
-      "onDirection": [ "East", ],
       "offDirection": [ "South", ],
-      "editVisualTag": "3",
       "targetRails": [ "com.funlabyrinthe.core.AdditionalComponents:railsSwitchable3", ],
+      "editVisualTag": "3",
+      "onDirection": [ "East", ],
     },
     "com.funlabyrinthe.core.AdditionalComponents:railsSwitch4": {
-      "onDirection": [ "West", ],
       "offDirection": [ "South", ],
-      "editVisualTag": "4",
-      "targetRails": [ "com.funlabyrinthe.core.AdditionalComponents:railsSwitchable4", ],
       "isOn": true,
+      "targetRails": [ "com.funlabyrinthe.core.AdditionalComponents:railsSwitchable4", ],
+      "editVisualTag": "4",
+      "onDirection": [ "West", ],
     },
     "com.funlabyrinthe.core.AdditionalComponents:railsSwitch5": {
-      "onDirection": [ "North", ],
       "offDirection": [ "South", ],
-      "editVisualTag": "5",
       "targetRails": [ "com.funlabyrinthe.core.AdditionalComponents:railsSwitchable5", ],
+      "editVisualTag": "5",
+      "onDirection": [ "North", ],
     },
     "com.funlabyrinthe.core.AdditionalComponents:railsSwitch6": {
-      "onDirection": [ "East", ],
       "offDirection": [ "South", ],
-      "editVisualTag": "6",
-      "targetRails": [ "com.funlabyrinthe.core.AdditionalComponents:railsSwitchable6", ],
       "isOn": true,
+      "targetRails": [ "com.funlabyrinthe.core.AdditionalComponents:railsSwitchable6", ],
+      "editVisualTag": "6",
+      "onDirection": [ "East", ],
     },
     "com.funlabyrinthe.core.AdditionalComponents:railsSwitch7": {
-      "onDirection": [ "North", ],
       "offDirection": [ "West", ],
-      "editVisualTag": "7",
       "targetRails": [ "com.funlabyrinthe.core.AdditionalComponents:railsSwitchable7", ],
+      "editVisualTag": "7",
+      "onDirection": [ "North", ],
     },
     "com.funlabyrinthe.core.AdditionalComponents:railsSwitch8": {
-      "onDirection": [ "North", ],
       "offDirection": [ "East", ],
-      "editVisualTag": "8",
-      "targetRails": [ "com.funlabyrinthe.core.AdditionalComponents:railsSwitchable8", ],
       "isOn": true,
+      "targetRails": [ "com.funlabyrinthe.core.AdditionalComponents:railsSwitchable8", ],
+      "editVisualTag": "8",
+      "onDirection": [ "North", ],
     },
     "com.funlabyrinthe.core.AdditionalComponents:railsSwitchable1": {
-      "editVisualTag": "1",
       "direction": [ "North", ],
       "painter": [
         {
           "ImageDescription": "Rails/BottomToTopRight",
         },
       ],
+      "editVisualTag": "1",
     },
     "com.funlabyrinthe.core.AdditionalComponents:railsSwitchable2": {
-      "editVisualTag": "2",
       "direction": [ "West", ],
       "painter": [
         {
           "ImageDescription": "Rails/RightToTopLeft",
         },
       ],
+      "editVisualTag": "2",
     },
     "com.funlabyrinthe.core.AdditionalComponents:railsSwitchable3": {
-      "editVisualTag": "3",
       "direction": [ "South", ],
       "painter": [
         {
           "ImageDescription": "Rails/LeftToBottomRight",
         },
       ],
+      "editVisualTag": "3",
     },
     "com.funlabyrinthe.core.AdditionalComponents:railsSwitchable4": {
-      "editVisualTag": "4",
       "direction": [ "West", ],
       "painter": [
         {
           "ImageDescription": "Rails/TopToBottomLeft",
         },
       ],
+      "editVisualTag": "4",
     },
     "com.funlabyrinthe.core.AdditionalComponents:railsSwitchable5": {
-      "editVisualTag": "5",
       "direction": [ "South", ],
       "painter": [
         {
@@ -563,33 +562,34 @@
           "ImageDescription": "Rails/BottomToRight",
         },
       ],
+      "editVisualTag": "5",
     },
     "com.funlabyrinthe.core.AdditionalComponents:railsSwitchable6": {
-      "editVisualTag": "6",
       "direction": [ "East", ],
       "painter": [
         {
           "ImageDescription": "Rails/LeftToBottomRight",
         },
       ],
+      "editVisualTag": "6",
     },
     "com.funlabyrinthe.core.AdditionalComponents:railsSwitchable7": {
-      "editVisualTag": "7",
       "direction": [ "West", ],
       "painter": [
         {
           "ImageDescription": "Rails/RightToTopLeft",
         },
       ],
+      "editVisualTag": "7",
     },
     "com.funlabyrinthe.core.AdditionalComponents:railsSwitchable8": {
-      "editVisualTag": "8",
       "direction": [ "North", ],
       "painter": [
         {
           "ImageDescription": "Rails/BottomToTopRight",
         },
       ],
+      "editVisualTag": "8",
     },
     "com.funlabyrinthe.core.AdditionalComponents:railsVertical": {
       "painter": [
@@ -599,14 +599,14 @@
       ],
     },
     "com.funlabyrinthe.core.AdditionalComponents:railsVerticalStop": {
-      "additionalDelay": 3000,
-      "isStop": true,
-      "editVisualTag": "T",
       "painter": [
         {
           "ImageDescription": "Rails/Vertical",
         },
       ],
+      "additionalDelay": 3000,
+      "isStop": true,
+      "editVisualTag": "T",
     },
     "com.funlabyrinthe.core.AdditionalComponents:railsWestToSouth": {
       "direction": [ "South", ],
@@ -895,7 +895,6 @@
       ],
     },
     "com.funlabyrinthe.core.AdditionalComponents:zoneRailsLight00North": {
-      "turnLightOnOffQueue": [],
       "updateLightQueue": [],
       "zoneMap": [ "com.funlabyrinthe.core.AdditionalComponents:map1", ],
       "zoneEnd": [ 8, 8, 0, ],
@@ -906,14 +905,13 @@
           "ImageDescription": "Rails/LightOffWest",
         },
       ],
-      "zoneStart": [ 0, 9, 0, ],
-      "turnLightOnOffQueue": [],
-      "updateLightQueue": [],
       "onPainter": [
         {
           "ImageDescription": "Rails/LightOnWest",
         },
       ],
+      "zoneStart": [ 0, 9, 0, ],
+      "updateLightQueue": [],
       "zoneMap": [ "com.funlabyrinthe.core.AdditionalComponents:map1", ],
       "zoneEnd": [ 8, 17, 0, ],
     },
@@ -923,14 +921,13 @@
           "ImageDescription": "Rails/LightOffEast",
         },
       ],
-      "zoneStart": [ 9, 0, 0, ],
-      "turnLightOnOffQueue": [],
-      "updateLightQueue": [],
       "onPainter": [
         {
           "ImageDescription": "Rails/LightOnEast",
         },
       ],
+      "zoneStart": [ 9, 0, 0, ],
+      "updateLightQueue": [],
       "zoneMap": [ "com.funlabyrinthe.core.AdditionalComponents:map1", ],
       "zoneEnd": [ 17, 8, 0, ],
     },
@@ -940,14 +937,13 @@
           "ImageDescription": "Rails/LightOffSouth",
         },
       ],
-      "zoneStart": [ 9, 9, 0, ],
-      "turnLightOnOffQueue": [],
-      "updateLightQueue": [],
       "onPainter": [
         {
           "ImageDescription": "Rails/LightOnSouth",
         },
       ],
+      "zoneStart": [ 9, 9, 0, ],
+      "updateLightQueue": [],
       "zoneMap": [ "com.funlabyrinthe.core.AdditionalComponents:map1", ],
       "zoneEnd": [ 17, 17, 0, ],
     },
@@ -957,14 +953,13 @@
           "ImageDescription": "Rails/LightOffEast",
         },
       ],
-      "zoneStart": [ 18, 0, 0, ],
-      "turnLightOnOffQueue": [],
-      "updateLightQueue": [],
       "onPainter": [
         {
           "ImageDescription": "Rails/LightOnEast",
         },
       ],
+      "zoneStart": [ 18, 0, 0, ],
+      "updateLightQueue": [],
       "zoneMap": [ "com.funlabyrinthe.core.AdditionalComponents:map1", ],
       "zoneEnd": [ 26, 8, 0, ],
     },

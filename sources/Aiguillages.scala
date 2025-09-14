@@ -54,8 +54,6 @@ final class ZoneRailsLightCreator(using ComponentInit) extends ComponentCreator[
 end ZoneRailsLightCreator
 
 class ZoneRailsLight(using ComponentInit) extends RailsLight derives Reflector:
-  category = ComponentCategory("rails", "Rails")
-
   var zoneMap: Option[Map] = None
   var zoneStart: Position = Position.Zero
   var zoneEnd: Position = Position.Zero
