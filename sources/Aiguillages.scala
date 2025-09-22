@@ -6,21 +6,12 @@ import com.funlabyrinthe.mazes.std.*
 
 import user.sjrd.railways.*
 
-object Aiguillages extends Module:
-  override protected def createComponents()(using Universe): Unit =
-    val closedGate = new ClosedGate
-    val openGate = new OpenGate
-    val closeGateButton = new CloseGateButton
-    val openGateButton = new OpenGateButton
-  end createComponents
+object Aiguillages extends Module
 
-  def closedGate(using Universe): ClosedGate = myComponentByID("closedGate")
-  def openGate(using Universe): OpenGate = myComponentByID("openGate")
-  def closeGateButton(using Universe): CloseGateButton = myComponentByID("closeGateButton")
-  def openGateButton(using Universe): OpenGateButton = myComponentByID("openGateButton")
-end Aiguillages
-
-export Aiguillages.*
+@definition def closedGate(using Universe) = new ClosedGate
+@definition def openGate(using Universe) = new OpenGate
+@definition def closeGateButton(using Universe) = new CloseGateButton
+@definition def openGateButton(using Universe) = new OpenGateButton
 
 class ClosedGate(using ComponentInit) extends Obstacle:
   painter += "Gates/ClosedPorch"

@@ -7,7 +7,7 @@
     "com.funlabyrinthe.core.AdditionalComponents",
     "com.funlabyrinthe.mazes.Mazes",
     "user.sjrd.railways.Railways",
-    "myfunlaby.SimpleBridges",
+    "user.sjrd.simplebridges.SimpleBridges",
     "myfunlaby.Aiguillages"
   ]
 }
